@@ -1,7 +1,7 @@
 # TechJam BlastGalaxy
 
 . Waarom bestaat de organisatie?
-Door een opdracht van school om een website te maken
+Door een opdracht van school om een website te maken voor BlastGalaxy
 
 . Waar geloven wij in?
 Een goeie samenwerking en een goed product leveren
@@ -17,3 +17,5 @@ wij gebruiken humor bij het maken van onze projecten
 
 . Wat zijn de kernwaarde?
 een user friendly product maken en een leuke tijd hebben
+
+Jeed

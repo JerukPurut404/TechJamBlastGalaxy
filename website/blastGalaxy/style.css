@@ -155,21 +155,6 @@ nav {
   to {opacity: 1}
 }
 
-.tijden {
-  margin-left: 10vw;
-  width: 1500;
-  margin-top: -19vw;
-  color: whitesmoke;
-}
-
-.tijden h2 {
-  font-size: 18px;
-  letter-spacing: 1.5px;
-  font-weight: 600;
-  margin-bottom: 10px;
-  color: whitesmoke;
-}
-
 #foto1 {
   height: 40vb;
   margin-left: 55vw;
@@ -181,14 +166,6 @@ nav {
 
 .slideshow-container {
   background-color: white;
-}
-
-.reviews{
-  padding: 40px 0;
-  text-align: center;
-  color: whitesmoke;
-  text-align: center;
-  margin-top: 60px;
 }
 
 .inner{
@@ -216,11 +193,6 @@ nav {
   padding: 15px;
 }
 
-.review{
-  background:  hwb(183 3% 33%);
-  padding: 30px;
-}
-
 .name{
   font-size: 20px;
   text-transform: uppercase;
@@ -229,12 +201,6 @@ nav {
 
 .stars{
   margin-bottom: 20px;
-}
-
-.reviews-container{
-  display: flex;
-  justify-content: space-evenly;
-  flex-direction: row;
 }
 
 .checked {

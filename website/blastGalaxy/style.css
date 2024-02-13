@@ -256,7 +256,7 @@ nav {
 }
 
 .footer-col ul li a:hover {
-    color: hwb(183 3% 33%);
+  
     padding-left: 8px;
 }
 
@@ -264,7 +264,7 @@ nav {
     display: inline-block;
     height: 40px;
     width: 40px;
-    background-color: hwb(183 3% 33%);
+    
     margin: 0 10px 10px 0;
     text-align: center;
     line-height: 40px;
@@ -273,9 +273,7 @@ nav {
     transition: all 0.5s ease;
 }
 
-.footer-col .social-links a:hover {
-    color: #33cccc;
-}
+
 
 .rowr {
     display: flex;

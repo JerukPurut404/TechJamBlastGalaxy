@@ -37,6 +37,12 @@ nav {
     
 }
 
+.Logo{
+  width: 200px;
+  height: 100px;
+  padding-left: 50px;
+}
+
 
 .menu {
     display: flex; 

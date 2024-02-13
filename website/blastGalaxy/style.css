@@ -37,11 +37,19 @@ nav {
  
 }
 
+.Logo{
+  width: 200px;
+  height: 100px;
+  padding-left: 50px;
+}
+
 .headerIMG{
 
 width: 100%;
 height: auto;
 }
+
+
 
 
 .menu {

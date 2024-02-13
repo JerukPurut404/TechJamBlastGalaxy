@@ -37,6 +37,12 @@ nav {
     
 }
 
+.headerIMG{
+
+width: 100%;
+height: auto;
+}
+
 
 .menu {
     display: flex; 

@@ -37,17 +37,10 @@ nav {
     
 }
 
-
-.Logo{
-  width: 200px;
-  height: 100px;
-  padding-left: 50px;
-}
-  
 .headerIMG{
+
 width: 100%;
 height: auto;
-
 }
 
 
@@ -170,6 +163,21 @@ height: auto;
   to {opacity: 1}
 }
 
+.tijden {
+  margin-left: 10vw;
+  width: 1500;
+  margin-top: -19vw;
+  color: whitesmoke;
+}
+
+.tijden h2 {
+  font-size: 18px;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: whitesmoke;
+}
+
 #foto1 {
   height: 40vb;
   margin-left: 55vw;
@@ -181,6 +189,14 @@ height: auto;
 
 .slideshow-container {
   background-color: white;
+}
+
+.reviews{
+  padding: 40px 0;
+  text-align: center;
+  color: whitesmoke;
+  text-align: center;
+  margin-top: 60px;
 }
 
 .inner{
@@ -208,6 +224,11 @@ height: auto;
   padding: 15px;
 }
 
+.review{
+  background:  hwb(183 3% 33%);
+  padding: 30px;
+}
+
 .name{
   font-size: 20px;
   text-transform: uppercase;
@@ -216,6 +237,12 @@ height: auto;
 
 .stars{
   margin-bottom: 20px;
+}
+
+.reviews-container{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
 }
 
 .checked {
@@ -279,7 +306,7 @@ height: auto;
     display: inline-block;
     height: 40px;
     width: 40px;
-    transition: all 0.3s ease;
+    
     margin: 0 10px 10px 0;
     text-align: center;
     line-height: 40px;
@@ -437,8 +464,4 @@ div ul {
 .NXT .button:hover {
   background-color: hwb(183 3% 33%);
   transition: 0.5s ease;
-}
-
-.header{
-  height: 200px;
 }

@@ -51,7 +51,11 @@ margin-bottom: 20px;
 }
 
 .p-info{
-  width: 1000px;
+  height: 40vb;
+  margin-left: 30vw;
+  max-width: 600px;
+  padding-top: 100px;
+
 }
 
 

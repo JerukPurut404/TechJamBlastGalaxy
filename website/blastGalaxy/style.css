@@ -37,20 +37,12 @@ nav {
  
 }
 
-.Logo{
-  width: 200px;
-  height: 100px;
-  padding-left: 50px;
-}
-
 .headerIMG{
 
 width: 100%;
 height: auto;
 margin-bottom: 20px;
 }
-
-
 
 
 .menu {
@@ -405,7 +397,7 @@ margin-top: 10vw;
 height: 40vb;
 border-radius: 10px;
 cursor: pointer;
-margin-left: 50vw;
+margin-left: 57vw;
 margin-top: 0vw;
 }
 

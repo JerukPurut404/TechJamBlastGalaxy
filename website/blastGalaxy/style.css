@@ -48,12 +48,15 @@ height: auto;
 margin-bottom: 20px;
 }
 
-.p-info{
+.p-info1 > .p-info2{
   height: 40vb;
-  margin-left: 30vw;
   max-width: 600px;
   padding-top: 100px;
 
+}
+
+.p-info2{
+  padding-right: 40px;
 }
 
 

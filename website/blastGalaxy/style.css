@@ -37,19 +37,26 @@ nav {
  
 }
 
+.Logo{
+  height: 100px;
+}
+
 .headerIMG{
 
-width: 100%;
+width:100;
 height: auto;
 margin-bottom: 20px;
 }
 
-.p-info{
+.p-info1 > .p-info2{
   height: 40vb;
-  margin-left: 30vw;
   max-width: 600px;
   padding-top: 100px;
 
+}
+
+.p-info2{
+  padding-right: 40px;
 }
 
 
@@ -200,14 +207,6 @@ transition: 0.3s;
 background-color: white;
 }
 
-.reviews{
-padding: 40px 0;
-text-align: center;
-color: whitesmoke;
-text-align: center;
-margin-top: 60px;
-}
-
 .inner{
 max-width: 1200px;
 margin: auto;
@@ -231,11 +230,6 @@ justify-content: center;
 .col{
 box-sizing: border-box;
 padding: 15px;
-}
-
-.review{
-background:  hwb(183 3% 33%);
-padding: 30px;
 }
 
 .name{
@@ -323,8 +317,6 @@ color: yellow;
   color: white;
   transition: all 0.5s ease;
 }
-
-
 
 .rowr {
   display: flex;
@@ -474,3 +466,4 @@ margin-bottom: 20px;
 background-color: hwb(183 3% 33%);
 transition: 0.5s ease;
 }
+

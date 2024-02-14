@@ -44,6 +44,14 @@ height: auto;
 margin-bottom: 20px;
 }
 
+.p-info{
+  height: 40vb;
+  margin-left: 30vw;
+  max-width: 600px;
+  padding-top: 100px;
+
+}
+
 
 .menu {
   display: flex;
